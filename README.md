@@ -1,2 +1,4 @@
-# treino-javascript
-## Commit feito com sucesso. É apenas um clone soliticado pelo professor Romulo da instituição Senai DF
+# treino-javascript (CLONE)
+# Solicitações
+## Criar um git clone da pasta treino-javascript
+## e subir para o meu github.
